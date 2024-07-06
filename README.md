@@ -28,9 +28,9 @@ List your technical skills or areas of expertise relevant to your GitHub project
 
 Include how people can reach out to you or connect with you.
 
-- GitHub: [Your GitHub Profile](link)
-- LinkedIn: [Your LinkedIn Profile](link)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- GitHub: [Your GitHub Profile](https://github.com/black-blip/black-blip)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sakshipatil02/)
+- Email: [Your Email Address](mailto:sakship2499@gmail.com)
 
 ## Fun Facts
 
