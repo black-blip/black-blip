@@ -1,41 +1,33 @@
-# [Sakshi Patil]
-
 ## About Me
 
 Hi 👋, I'm Sakshi.
 
 ## Projects
 
-List some of the key projects you've worked on. Include a short description and link to each project repository.
+1. **Meeting Transcription and Summarization using Diarization**
+   - Description: This projects aims to generate minutes of meeting from the recorded meeting conversation.
+   - GitHub Link: [MTASUD](https://github.com/black-blip/M-TASUD)
 
-1. **Project Name 1**
-   - Description: Briefly describe what this project is about.
-   - GitHub Link: [Project Name 1](link)
-
-2. **Project Name 2**
-   - Description: Briefly describe what this project is about.
-   - GitHub Link: [Project Name 2](link)
+2. **Time Series Analysis**
+   - Description: Predicting Sales of 4 different books based on country, store and date. It is a solution to a Kaggle Competition of Tabular Playground Series Sep 2022.
+   - GitHub Link: [Sales Prediction](https://github.com/black-blip/tabularPlaygroundSep22)
+   
+   
 
 ## Skills
 
 List your technical skills or areas of expertise relevant to your GitHub projects.
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Python
+- Machine learning
+- Data 
 
 ## Contact
 
-Include how people can reach out to you or connect with you.
 
-- GitHub: [Your GitHub Profile](https://github.com/black-blip/black-blip)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sakshipatil02/)
-- Email: [Your Email Address](mailto:sakship2499@gmail.com)
+- GitHub: [black-blip](https://github.com/black-blip/black-blip)
+- LinkedIn: [sakshipatil02](https://www.linkedin.com/in/sakshipatil02/)
+- Email: [sakship2499@gmail.com](mailto:sakship2499@gmail.com)
 
-## Fun Facts
 
-Share some interesting or fun facts about yourself.
 
-- Fun Fact 1
-- Fun Fact 2
-- Fun Fact 3
